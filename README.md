@@ -13,22 +13,12 @@ From the table below we can say that;
 - The maximun temperature in June and December are 85 and 83 respectively, which is not that much different values.
 - The minimum temperature in June is 64 whereas the minimum temperature in December is 56 degrees. The temperature difference between two months is more compared to difference betweem mean and maximum temperatures.
 
-    Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
+According to the table above we can say that the ice cream and surf shop business can thrive during the month of June. Since the average temperature of december is above 70 degrees there is a good chance that the business will sustain throughout the year. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Since temperature is not the only factor that can affect the ice cream and surf shop business,
+- We can look at the rate of precipitation rate throughout the year and analyze the precipitaion level.
+- We can write the query on locations that could be favourable for W. Avy's business.
 
 
 
